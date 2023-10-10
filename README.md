@@ -3,7 +3,7 @@ Simulate the movement of a robotic arm with a 2D implementation of the FABRIK al
 
 ## YouTube short project walkthrough: [Youtube](https://youtu.be/SBgf7nwn8SQ)
 
-[![Watch the video]([https://i.stack.imgur.com/Vp2cE.png](https://i9.ytimg.com/vi/SBgf7nwn8SQ/mqdefault.jpg?sqp=CODHlqkG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEkgUyhlMA8=&rs=AOn4CLDWfP0YeALEoMouGVj-6qE_KQD-fw))]([Youtube](https://youtu.be/SBgf7nwn8SQ))
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SBgf7nwn8SQ/0.jpg)](https://www.youtube.com/watch?v=SBgf7nwn8SQ)
 
 ## Below are some screenshots of the app in action
 
